@@ -1,5 +1,5 @@
 <Module specificationVersion="2">
-<ModulePrefs title="Tutorial_01_Hello_World"> </ModulePrefs>
+<ModulePrefs title="Tutorial_001_Hello_World"> </ModulePrefs>
 <Content type="html">
 <![CDATA[ Hello, deep! ]]>
 </Content>
