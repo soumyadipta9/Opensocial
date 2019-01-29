@@ -2,7 +2,7 @@
 <ModulePrefs title="Twitter timeline"></ModulePrefs>
 <Content type="html">
 <![CDATA[
-<a class="twitter-timeline" data-width="800" data-height="600" data-theme="dark" href="https://twitter.com/SAP_Jam?ref_src=twsrc%5Etfw">Tweets by SAP_Jam</a> 
+<a class="twitter-timeline" data-width="800" data-height="3200" data-theme="dark" href="https://twitter.com/SAP_Jam?ref_src=twsrc%5Etfw">Tweets by SAP_Jam</a> 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 ]]>
 </Content>
