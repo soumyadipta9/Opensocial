@@ -1,6 +1,6 @@
 <!--  Tutorial_01_Hello_World (XML)  -->
 <Module specificationVersion="2">
-<ModulePrefs title="Tutorial_Hello_FB"> </ModulePrefs>
+<ModulePrefs title="Facebook feed"> </ModulePrefs>
 <Content type="html">
 <![CDATA[ 
 <div id="fb-root"></div>
